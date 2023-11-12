@@ -25,16 +25,16 @@ function App() {
             </div>
             <div className="column is-4">
               <ProfileCard
-                title="Ana"
-                handle="@ana99"
+                title="Cortana"
+                handle="@cortana99"
                 image={CortanaImage}
                 description="In nisi qui ex consequat amet minim veniam laboris irure."
               />
             </div>
             <div className="column is-4">
               <ProfileCard
-                title="Juan"
-                handle="@juan99"
+                title="Siri"
+                handle="@siri99"
                 image={SiriImage}
                 description="In nisi qui ex consequat amet minim veniam laboris irure."
               />
